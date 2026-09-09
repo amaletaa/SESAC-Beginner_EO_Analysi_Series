@@ -32,7 +32,7 @@ No coding experience is needed to run it — every cell is pre-written; the job 
 ├── population.tif                                # SCB 1 km population grid, pre-clipped to the AOI
 ├── landcover.tif                                  # NMD2018 land-cover raster, pre-clipped to the AOI
 └── slides/
-    └── Beginner_EO_Analysis.pdf                  # presentation slides used alongside the notebook
+    └── Beginner_EO_Analysis_Workshop.pdf                  # presentation slides used alongside the notebook
 ```
 
 ## Data sources
